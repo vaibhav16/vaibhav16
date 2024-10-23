@@ -86,7 +86,6 @@
         <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
         <a href="https://zeplin.io/" target="_blank" rel="noreferrer"> <img src="https://extensions.zeplin.io/img/favicon/228x228.png" alt="zeplin" width="40" height="40"/> </a>
         <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.liblogo.com/img-logo/in24ia14-invision-logo-invision-logo-pink.png" alt="invision" width="40" height="40"/> </a>
-        <a href="https://www.mural.co/templates/wireframing-for-desktop" target="_blank" rel="noreferrer"> <img src="https://d2csxpduxe849s.cloudfront.net/media/C96F1591-D871-40E5-BFDB62CEF40F8EDE/BFA0E44A-C272-4647-A03330979101E512/webimage-1A5E6364-CCE1-46B0-847B6EF165D4571C.png" alt="mural" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
