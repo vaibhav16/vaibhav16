@@ -17,7 +17,7 @@
 - **Currently Exploring:** Java SpringBoot
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vaibhavsharma11/)
+- **LinkedIn:** [Vaibhav's Linkedin](https://www.linkedin.com/in/vaibhavsharma11/)
 
 <h3 align="left">Primary Skill Set</h3>
 
