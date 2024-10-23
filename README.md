@@ -10,7 +10,7 @@
 
 ## 🔧 Technologies & Tools
 - **Frontend:** React.js, HTML, CSS, JavaScript, Angular, Typescript, Angularjs
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, C#
 - **Databases:** MongoDB, MySQL
 - **DevOps:** Docker, AWS, CI/CD
 - **Other:** Git, Agile methodologies
@@ -18,7 +18,6 @@
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vaibhavsharma11/)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
 
 <h3 align="left">Primary Skill Set</h3>
 
