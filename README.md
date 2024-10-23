@@ -8,6 +8,14 @@
 
 <br/>
 
+## 🔧 Technologies & Tools
+- **Frontend:** React.js, HTML, CSS, JavaScript, Angular, Typescript, Angularjs
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **DevOps:** Docker, AWS, CI/CD
+- **Other:** Git, Agile methodologies
+- **Currently Exploring:** Java SpringBoot
+
 <h3 align="left">Primary Skill Set</h3>
 
 <table>
