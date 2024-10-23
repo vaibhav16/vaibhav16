@@ -16,6 +16,10 @@
 - **Other:** Git, Agile methodologies
 - **Currently Exploring:** Java SpringBoot
 
+## 📫 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vaibhavsharma11/)
+- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+
 <h3 align="left">Primary Skill Set</h3>
 
 <table>
