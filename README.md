@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h3 align="center">A passionate software engineer from Delhi.</h3>
 <h4 align="center">Currently exploring <b>SpringBoot, NextJs</b></h4>
 
 <br/>
