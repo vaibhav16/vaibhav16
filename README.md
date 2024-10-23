@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">I'm a passionate software engineer with over 7 years of experience, specializing in optimizing web applications and driving scalability in startups and e-commerce. I have a strong background in both frontend and backend development, particularly with React.js.</h3>
+<h3 align="center">I'm a passionate software engineer with over 7 years of experience, with a strong background in both frontend and backend development, particularly with React.js.</h3>
 <h4 align="center">Currently exploring <b>SpringBoot, NextJs</b></h4>
 
 <br/>
